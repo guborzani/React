@@ -4,11 +4,13 @@ import Trash from '../../assets/Trash.png'
 
 function Home() {
 
-  const users - [
-    id:'1',
-    name: 'João',
-    age: '25',
-    email: 'joao@gmail.com
+  const users = [
+    {
+      id: '1',
+      name: 'João',
+      age: '25',
+      email: 'joao@gmail.com',
+    }
   ]
 
   return (
